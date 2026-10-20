@@ -54,7 +54,7 @@ const Header = () => {
   };
 
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-white shadow-sm sticky-top">
+    <nav className="navbar navbar-expand-lg navbar-light bg-white shadow-sm sticky-top site-navbar">
       <div className="container">
         <Link className="navbar-brand d-flex align-items-center" to="/">
           <i className="bi bi-bag-heart-fill text-primary me-2"></i>

@@ -21,7 +21,7 @@ const Hero = () => {
             <div className="d-flex gap-3">
               <button
                 type="button"
-                className="btn btn-primary btn-lg"
+                className="btn btn-light btn-lg hero-primary-action"
                 onClick={scrollToProducts}
               >
                 <i className="bi bi-bag-plus me-2"></i>
